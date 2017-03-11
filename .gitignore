@@ -1,5 +1,4 @@
 .gradle
-/build/
 !gradle/wrapper/gradle-wrapper.jar
 
 ### STS ###
@@ -18,9 +17,14 @@
 
 ### NetBeans ###
 nbproject/private/
-build/
+build/classes
+build/resources
+build/reports
+build/test-results
+build/tmp
 nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
 
